@@ -1,0 +1,88 @@
+{
+  "version": 1,
+  "base_track": "未来予想図Ⅱ",
+  "base_artist": "Dreams Come True",
+  "createdAt": "2025-12-14T14:37:14.125885Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "未来予想図Ⅱ",
+      "artist": "Dreams Come True",
+      "has_synced": true,
+      "path": "select/01_未来予想図II_Dreams_Come_True.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "未来予想図Ⅱ",
+      "artist": "いきものがかり",
+      "has_synced": true,
+      "path": "select/02_未来予想図II_いきものがかり.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "未来予想図Ⅱ – DOSCO prime Version –",
+      "artist": "DREAMS COME TRUE",
+      "has_synced": true,
+      "path": "select/03_未来予想図II_–_DOSCO_prime_Version_–_DREAMS_COME_TRUE.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "未来予想図Ⅱ",
+      "artist": "Ikimonogakari",
+      "has_synced": true,
+      "path": "select/04_未来予想図II_Ikimonogakari.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "未来予想図Ⅱ",
+      "artist": "DREAMS COME TRUE",
+      "has_synced": true,
+      "path": "select/05_未来予想図II_DREAMS_COME_TRUE.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "未来予想図Ⅱ",
+      "artist": "Ikimonogakari",
+      "has_synced": true,
+      "path": "select/06_未来予想図II_Ikimonogakari.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "未来予想図Ⅱ",
+      "artist": "DREAMS COME TRUE",
+      "has_synced": true,
+      "path": "select/07_未来予想図II_DREAMS_COME_TRUE.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "未来予想図Ⅱ",
+      "artist": "川嶋あい",
+      "has_synced": true,
+      "path": "select/08_未来予想図II_川嶋あい.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "未来予想図Ⅱ",
+      "artist": "青山テルマ(Thelma Aoyama)",
+      "has_synced": false,
+      "path": "select/09_未来予想図II_青山テルマ(Thelma_Aoyama).txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "未来予想図Ⅱ",
+      "artist": "DREAMS COME TRUE",
+      "has_synced": false,
+      "path": "select/pl_01_未来予想図II_DREAMS_COME_TRUE.txt"
+    }
+  ]
+}
